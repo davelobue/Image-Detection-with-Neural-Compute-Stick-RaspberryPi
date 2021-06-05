@@ -12,7 +12,11 @@ This command will initiate streaming Pi camera, apply bounding boxes to images d
 References:
 
 MobileNets:  Efficient Convolutional Neural Networks for Mobile Vision Applications:  https://arxiv.org/abs/1704.04861
+
 OpenCV: https://opencv.org/
+
 OpenVino:  https://docs.openvinotoolkit.org/latest/index.html
+
 imutils:  https://www.pyimagesearch.com/2019/04/08/openvino-opencv-and-movidius-ncs-on-the-raspberry-pi/
+
 SMTPlib:  https://docs.python.org/3/library/smtplib.html
